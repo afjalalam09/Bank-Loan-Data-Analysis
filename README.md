@@ -19,7 +19,4 @@ Based on the data of 500 loan applications, here are the key findings:
 
 ## 📸 Dashboard Snapshot
 ![Bank Loan Dashboard](Bank_Loan_Dashboard.png)
-*(Note: Ensure the uploaded screenshot file in the repository matches this name)*
 
-## 💡 Credits
-* **Dataset & Guidance:** Special thanks to [Data Tutorials (YouTube)](https://www.youtube.com/watch?v=N_8I-yN_u18) for the inspiration and guidance on building this financial dashboard.
